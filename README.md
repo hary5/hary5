@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hary5
+- 👀 I’m interested in JS, Python, C, Java
+- 🌱 I’m currently learning Fullstack JS in a Helsinki University MOOC
